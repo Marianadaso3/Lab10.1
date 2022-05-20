@@ -1,8 +1,7 @@
 # Lab10.1
 Continuacion lab calculadora; Testing 
 ----------------------------------------
-
-
+Autora: Mariana David 201055
 --------------------------------------
 Objetivos:
 
